@@ -20,4 +20,5 @@ _ _ _
 _ _ _
 
 #### 모델의 Accuracy 및 Cost 변화 추의(Tensorboard 활용)
-![이미지](C:\Users\MinGuk\Desktop\6006-.svg)
+![이미지1](https://github.com/MINGUKKANG/Inception_net_prettytensor/blob/master/images/Accuracy_train.PNG)
+![이미지2](https://github.com/MINGUKKANG/Inception_net_prettytensor/blob/master/images/cost.PNG)
