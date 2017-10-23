@@ -46,6 +46,7 @@ _ _ _
 ![Confusion](https://github.com/MINGUKKANG/Inception_net_prettytensor/blob/master/images/confusion%20matrix.PNG)
 _ _ _
 ### 5. 논문 Go deeper with convolutions에서 사용한 모델의 모습
+
 **출처는 다음과 같습니다.  <https://arxiv.org/abs/1409.4842>**
 
 ![모델](https://github.com/MINGUKKANG/Inception_net_prettytensor/blob/master/images/inception_network.jpg)
