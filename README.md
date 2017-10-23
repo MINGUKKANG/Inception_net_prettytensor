@@ -32,7 +32,7 @@ _ _ _
 **Inception network는 아래 사진에서 볼 있는 Previous layer가 4개의 분기로 나누어진 후, 나중에 다시 합쳐지게 되는 inception module을 기본으로 합니다.**
 ![모듈](https://github.com/MINGUKKANG/Inception_net_prettytensor/blob/master/images/inception_module.PNG)
 
-_ _ _
+- - -
 **Inception network를 소개한 논문 Go deeper with convolutions에서는 input_size로 (None,224,224,3)크기의 이미지를 사용했지만, cifar10의 경우 (None,32,32,3)크기의 이미지를 사용하므로 network를 약간 수정하였습니다. 수정한 network의 구조는 아래와 같습니다.**
 ![테이블](https://github.com/MINGUKKANG/Inception_net_prettytensor/blob/master/images/model_table.PNG)
 
