@@ -3,7 +3,7 @@
 
 **작성자는 Hvass-Lab 및 김성훈 교수님의 "모두를 위한 딥러닝" 강의를 듣고나서 이 튜토리얼을 작성하였습니다. 따라서, 코드들이 일부 겹칠 수 있고, 위의 두 강의를 듣고 오신 분이라면 쉽게 Inception network를 빌드할 수 있을 것입니다.**
 
-** 아래의 inception network관련 사진들의 출처는 다음과 같습니다**
+**아래의 inception network관련 사진들의 출처는 다음과 같습니다**
 
 <https://arxiv.org/abs/1409.4842>
 
@@ -27,10 +27,10 @@ _ _ _
 
 _ _ _
 #### 모델에 대한 간단한 설명
-** Inception network는 아래 사진에서 볼 있는 Previous layer가 4개의 분기로 나누어진 후, 나중에 다시 합쳐지게 되는 inception module을 기본으로 합니다.**
+**Inception network는 아래 사진에서 볼 있는 Previous layer가 4개의 분기로 나누어진 후, 나중에 다시 합쳐지게 되는 inception module을 기본으로 합니다.**
 ![모듈](https://github.com/MINGUKKANG/Inception_net_prettytensor/blob/master/images/inception_module.PNG)
 
-** Inception network를 소개한 논문 Go deeper with convolutions에서는 input_size로 (None,224,224,3)크기의 이미지를 사용했지만, cifar10의 경우 (None,32,32,3)크기의 이미지를 사용하므로 network를 약간 수정하였습니다. 수정한 network의 구조는 아래와 같습니다.**
+**Inception network를 소개한 논문 Go deeper with convolutions에서는 input_size로 (None,224,224,3)크기의 이미지를 사용했지만, cifar10의 경우 (None,32,32,3)크기의 이미지를 사용하므로 network를 약간 수정하였습니다. 수정한 network의 구조는 아래와 같습니다.**
 ![테이블](https://github.com/MINGUKKANG/Inception_net_prettytensor/blob/master/images/model_table.PNG)
 
 _ _ _
