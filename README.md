@@ -42,10 +42,21 @@ _ _ _
 ![이미지2](https://github.com/MINGUKKANG/Inception_net_prettytensor/blob/master/images/cost.PNG)
 
 _ _ _
-### 4. Confusion matrix
+### 4. Accuracy
+|Epoch|Accuracy_train|Accuracy_test|
+|--------|--------|--------|
+|**20 Epoch**|**- **|**- **|
+|**40 Epoch**|**- **|**- **|
+|**60 Epoch**|**- **|**- **|
+|**80 Epoch**|**- **|**- **|
+|**100 Epoch**|**- **|**- **|
+|**120 Epoch**|**- **|**- **|
+
+_ _ _
+### 5. Confusion matrix
 ![Confusion](https://github.com/MINGUKKANG/Inception_net_prettytensor/blob/master/images/confusion%20matrix.PNG)
 _ _ _
-### 5. 논문 Go deeper with convolutions에서 사용한 모델의 모습
+### 6. 논문 Go deeper with convolutions에서 사용한 모델의 모습
 
 **출처는 다음과 같습니다.  <https://arxiv.org/abs/1409.4842>**
 
