@@ -39,7 +39,7 @@ _ _ _
 _ _ _
 ### 3. 모델의 Accuracy 및 Cost 변화 추의(Tensorboard 활용)
 ![이미지1](https://github.com/MINGUKKANG/Inception_net_prettytensor/blob/master/images/Accuracy_train.PNG)
-![이미지2](https://github.com/MINGUKKANG/Inception_net_prettytensor/blob/master/images/cost.PNG)
+![이미지2](https://github.com/MINGUKKANG/Inception_net_prettytensor/blob/master/images/cost_train.PNG)
 
 _ _ _
 ### 4. Accuracy
@@ -54,7 +54,7 @@ _ _ _
 
 _ _ _
 ### 5. Confusion matrix
-![Confusion](https://github.com/MINGUKKANG/Inception_net_prettytensor/blob/master/images/confusion%20matrix.PNG)
+![Confusion](https://github.com/MINGUKKANG/Inception_net_prettytensor/blob/master/images/confusion_matrix.PNG)
 _ _ _
 ### 6. 논문 Go deeper with convolutions에서 사용한 모델의 모습
 
