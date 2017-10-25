@@ -42,10 +42,10 @@ _ _ _
 ![이미지2](https://github.com/MINGUKKANG/Inception_net_prettytensor/blob/master/images/cost_train.PNG)
 
 _ _ _
-### 4. Accuracy
+### 4. Accuracy(ckpt파일의 에러로 인해 추후에 업데이트 하겠습니다.)
 |Epoch|Accuracy_train|Accuracy_test|
 |--------|--------|--------|
-|**20 Epoch**|**-96.88%**|-|
+|**20 Epoch**|**-96.88%**|**-**|
 |**40 Epoch**|**-98.60%**|**- **|
 |**60 Epoch**|**-99.06%**|**- **|
 |**80 Epoch**|**-99.24%**|**- **|
